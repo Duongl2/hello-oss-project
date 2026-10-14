@@ -17,3 +17,8 @@ Mở terminal tại thư mục dự án, sau đó chạy:
 ```bash
 gcc hello.c -o hello
 ./hello
+
+## Thực hành GitHub Codespaces
+
+Dự án được mở, chỉnh sửa và chạy thử trong GitHub Codespaces.
+Môi trường cloud giúp contributor làm việc mà không cần cài đặt toàn bộ công cụ trên máy cá nhân.
